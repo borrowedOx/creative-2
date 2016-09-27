@@ -23,4 +23,8 @@ h1 {
 	border-width: 1px;
 	border-color: white;
 	border-radius: 5px;
+	border-style: solid;
+}
+#pop_out {
+	color: black;
 }
